@@ -80,7 +80,7 @@ public class MessageProcessorPollingMessageReceiver extends AbstractPollingMessa
      * The Polling transport name identifier. Used to create the scheduler name
      * </p>
      */
-    public static final String POLLING_TRANSPORT = "polling";
+    public static final String POLLING_TRANSPORT = MuleProperties.POLLING_TRANSPORT;
 
     /**
      * <p>
