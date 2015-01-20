@@ -106,6 +106,8 @@
 
     <modules>
         <module>buildtools</module>
+        <module>mule-api</module>
+        <module>spring-registry</module>
         <module>core</module>
         <module>distributions</module>
         <module>modules</module>

@@ -178,6 +178,16 @@
             <version>0.7.3</version>
         </dependency>
         <dependency>
+            <groupId>org.mule</groupId>
+            <artifactId>mule-api</artifactId>
+            <version>${project.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.mule</groupId>
+            <artifactId>spring-registry</artifactId>
+            <version>${project.version}</version>
+        </dependency>
+        <dependency>
             <groupId>org.mule.common</groupId>
             <artifactId>mule-common</artifactId>
             <version>${project.version}</version>
